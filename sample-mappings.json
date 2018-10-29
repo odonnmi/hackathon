@@ -1,0 +1,10 @@
+[
+    {
+        "appname": "login",
+        "environment": "lab",
+        "mappings": {
+            "AmazonMqUsername": "team01",
+            "AmazonMqPassword": "cYV]U5A1A5bj"
+        }
+    }
+]
